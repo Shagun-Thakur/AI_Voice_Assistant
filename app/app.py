@@ -25,12 +25,12 @@ lang = st.selectbox("Choose Language", ["English", "Hindi"])
 if lang == "English":
     assistant_name = "James"
     assistant_role = "Your English assistant"
-    assistant_image = "male.jpg"
+    assistant_image = "app\male.jpg"
     gender = "Male"
 else:
     assistant_name = "Jessy"
     assistant_role = "आपकी हिंदी सहायक"
-    assistant_image = "female.jpg"
+    assistant_image = "app\female.jpg"
     gender = "Female"
 # Assistant image and intro
 col1, col2 = st.columns([1, 3])
