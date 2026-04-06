@@ -1,5 +1,5 @@
 # 🎙️ AI Voice Assistant
-#### A multilingual AI assistant that answers user queries in natural-sounding voice, with a simple interactive UI and avatar - based experience.
+#### A multilingual AI assistant that answers user queries in natural-sounding voice, with a simple interactive UI. 
 
 ## 🎦 Live Demo
 Link : https://aivoiceassistant-uhrt6gjykx4zb4kufdqdw3.streamlit.app/
