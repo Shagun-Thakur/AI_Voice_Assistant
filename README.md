@@ -1,5 +1,7 @@
 # 🎙️ AI Voice Assistant
-#### A multilingual AI assistant that answers user queries in natural-sounding voice, with a simple interactive UI. 
+#### This project is an AI-powered voice assistant designed to interact with users through natural speech, perform tasks, and provide intelligent responses using modern AI tools. This project focuses on building a modular, extensible system that can be adapted for real-world ue cases.
+
+---
 
 ## 🎦 Live Demo
 Link : https://aivoiceassistant-uhrt6gjykx4zb4kufdqdw3.streamlit.app/
